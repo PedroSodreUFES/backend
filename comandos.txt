@@ -10,3 +10,4 @@ show tables; = exibe as tabelas do banco de dados
 
 show columns from <tabela>; = exibe a estrutura da tabela
 
+show databases = exibe todos os databases
