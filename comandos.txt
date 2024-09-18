@@ -1,10 +1,12 @@
 mysql comandos basicos
 
-use <database> = vai para um banco de dados
+use <database>; = vai para um banco de dados
 
-create database <nome> = cria um banco e dados
+create database <nome>; = cria um banco e dados
 
-create table <nome> = cria uma tabela
+create table <nome>; = cria uma tabela
 
+show tables; = exibe as tabelas do banco de dados
 
+show columns from <tabela>; = exibe a estrutura da tabela
 
